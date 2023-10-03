@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- -✨ My name is Samuel Kwabena Osei.
+   ✨ My name is Samuel Kwabena Osei.
 
 - 🔭 I'm a Frontnd Developer skilled in building captivating web experiences with great attention to details.
 - 🌱 I’m currently interested in design and mobile development.
